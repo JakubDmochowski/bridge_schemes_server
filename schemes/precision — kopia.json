@@ -1,0 +1,346 @@
+[
+  {
+    "id": "origin",
+    "bid": "Otwarcie",
+    "next_steps": [
+      {
+        "id": "1",
+        "message": "1♣: 16+ pkt"
+      },
+      {
+        "id": "2",
+        "message": "1♦: (11-15 pkt, 4+♦) LUB (12+ pkt, 2+♦ oraz 4 wysokie karty w innym kolorze. Wymagany układ niepasujący do zagrywek 1♣/1♠/1♥)"
+      },
+      {
+        "id": "3",
+        "message": "1♥: 11-15 pkt, 5+kart w ♥"
+      },
+      {
+        "id": "4",
+        "message": "1♠: 11-15 pkt, 5+kart w ♠"
+      },
+      {
+        "id": "5",
+        "message": "1☭: 13-15 pkt zbalansowany, bez 5 kart w ♥/♠"
+      },
+      {
+        "id": "6",
+        "message": "2♣: 11-15 pkt, 6+♣ LUB 5+♣ z 4 kartami w ♥/♠"
+      },
+      {
+        "id": "7",
+        "message": "2♦: 11-15 pkt, rozkład 4414 lub 4405, 0/1 w ♦, bez 5 w ♥/♠"
+      },
+      {
+        "id": "8",
+        "message": "2♥: 8-10 pkt, dobre 6♥"
+      },
+      {
+        "id": "9",
+        "message": "2♠: 8-10 pkt, dobre 6♠"
+      },
+      {
+        "id": "10",
+        "message": "2☭: 6-12 pkt, 5-5 w ♦/♣, słaba odzywka"
+      },
+      {
+        "id": "11",
+        "message": "3♣: 8-10 pkt, średnio-dobre 7♣, /has side entry/, zaproszenie do 3☭"
+      },
+      {
+        "id": "12",
+        "message": "3♦: 8-10 pkt, średnio-dobre 7♦, /has side entry/, zaproszenie do 3☭"
+      },
+      {
+        "id": "13",
+        "message": "3♥: 8-10 pkt, dobre 6♥"
+      },
+      {
+        "id": "14",
+        "message": "3♠: 8-10 pkt, dobre 6♠"
+      },
+      {
+        "id": "15",
+        "message": "3☭: około 10 pkt, 7 kart w ♣/♦ z AKQ"
+      },
+      {
+        "id": "16",
+        "message": "4♣: "
+      },
+      {
+        "id": "17",
+        "message": "4♦: "
+      },
+      {
+        "id": "18",
+        "message": "4♥: 8-10 pkt, dowolne 8 kart w ♥, block"
+      },
+      {
+        "id": "19",
+        "message": "4♠: 8-10 pkt, dowolne 8 kart w ♠, block"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "bid": "1♣",
+    "next_steps": [
+      {
+        "id": "1-1",
+        "message": "1♦: "
+      },
+      {
+        "id": "1-2",
+        "message": "1♥: "
+      },
+      {
+        "id": "1-3",
+        "message": "1♠: "
+      },
+      {
+        "id": "1-4",
+        "message": "1☭: "
+      },
+      {
+        "id": "1-5",
+        "message": "2♣: "
+      },
+      {
+        "id": "1-6",
+        "message": "2♦: "
+      },
+      {
+        "id": "1-7",
+        "message": "2♥: "
+      },
+      {
+        "id": "1-8",
+        "message": "2♠: "
+      },
+      {
+        "id": "1-9",
+        "message": "2☭: "
+      },
+      {
+        "id": "1-10",
+        "message": "3♣: "
+      },
+      {
+        "id": "1-11",
+        "message": "3♦: "
+      },
+      {
+        "id": "1-12",
+        "message": "3♥: "
+      },
+      {
+        "id": "1-13",
+        "message": "3♠: "
+      },
+      {
+        "id": "1-14",
+        "message": "3☭: "
+      },
+      {
+        "id": "1-15",
+        "message": "4♥: "
+      },
+      {
+        "id": "1-16",
+        "message": "4♠: "
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "bid": "1♦",
+    "next_steps": [
+      {
+        "id": "2-1",
+        "message": "1♥: "
+      },
+      {
+        "id": "2-2",
+        "message": "1♠: "
+      },
+      {
+        "id": "2-3",
+        "message": "1☭: "
+      },
+      {
+        "id": "2-4",
+        "message": "2♣: "
+      },
+      {
+        "id": "2-5",
+        "message": "2♦: "
+      },
+      {
+        "id": "2-6",
+        "message": "2♥: "
+      },
+      {
+        "id": "2-7",
+        "message": "2♠: "
+      },
+      {
+        "id": "2-8",
+        "message": "2☭: "
+      },
+      {
+        "id": "2-9",
+        "message": "3♦: "
+      },
+      {
+        "id": "2-10",
+        "message": "3♠: "
+      },
+      {
+        "id": "2-11",
+        "message": "3♥: "
+      },
+      {
+        "id": "2-12",
+        "message": "3☭: "
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "bid": "1♥",
+    "next_steps": [
+      {
+        "id": "3-1",
+        "message": "1♠: "
+      },
+      {
+        "id": "3-2",
+        "message": "1☭: "
+      },
+      {
+        "id": "3-3",
+        "message": "2♣: "
+      },
+      {
+        "id": "3-4",
+        "message": "2♦: "
+      },
+      {
+        "id": "3-5",
+        "message": "2♥: "
+      },
+      {
+        "id": "3-6",
+        "message": "2♠: "
+      },
+      {
+        "id": "3-7",
+        "message": "2☭: "
+      },
+      {
+        "id": "3-8",
+        "message": "3♦: "
+      },
+      {
+        "id": "3-9",
+        "message": "3♠: "
+      },
+      {
+        "id": "3-10",
+        "message": "3♥: "
+      },
+      {
+        "id": "3-11",
+        "message": "3☭: "
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "bid": "1♠",
+    "next_steps": [
+      {
+        "id": "4-1",
+        "message": "1☭: "
+      },
+      {
+        "id": "4-2",
+        "message": "2♣: "
+      },
+      {
+        "id": "4-3",
+        "message": "2♦: "
+      },
+      {
+        "id": "4-4",
+        "message": "2♥: "
+      },
+      {
+        "id": "4-5",
+        "message": "2♠: "
+      },
+      {
+        "id": "4-6",
+        "message": "2☭: "
+      },
+      {
+        "id": "4-7",
+        "message": "3♦: "
+      },
+      {
+        "id": "4-8",
+        "message": "3♠: "
+      },
+      {
+        "id": "4-9",
+        "message": "3♥: "
+      },
+      {
+        "id": "4-10",
+        "message": "3☭: "
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "bid": "1☭",
+    "next_steps": [
+      {
+        "id": "5-1",
+        "message": "2♣: "
+      },
+      {
+        "id": "5-2",
+        "message": "2♦: "
+      },
+      {
+        "id": "5-3",
+        "message": "2♥: "
+      },
+      {
+        "id": "5-4",
+        "message": "2♠: "
+      },
+      {
+        "id": "5-5",
+        "message": "2☭: "
+      },
+      {
+        "id": "5-6",
+        "message": "3♦: "
+      },
+      {
+        "id": "5-7",
+        "message": "3♠: "
+      },
+      {
+        "id": "5-8",
+        "message": "3♥: "
+      },
+      {
+        "id": "5-9",
+        "message": "3☭: "
+      }
+    ]
+  }
+]
