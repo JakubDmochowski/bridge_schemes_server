@@ -4,343 +4,195 @@
     "bid": "Otwarcie",
     "next_steps": [
       {
-        "id": "1",
-        "message": "1♣: 16+ pkt"
+        "id": "badec682-eafc-4287-80bd-df92a5ba4263",
+        "bid": "1♣",
+        "message": "16+ pkt"
       },
       {
-        "id": "2",
-        "message": "1♦: (11-15 pkt, 4+♦) LUB (12+ pkt, 2+♦ oraz 4 wysokie karty w innym kolorze. Wymagany układ niepasujący do zagrywek 1♣/1♠/1♥)"
+        "id": "ccaea5c7-1174-467e-be60-28fcb98049aa",
+        "bid": "1♦",
+        "message": "(11-15 pkt, 4+♦) LUB (12+ pkt, 2+♦ oraz 4 wysokie karty w innym kolorze. Wymagany układ niepasujący do zagrywek 1♣/1♠/1♥)"
       },
       {
-        "id": "3",
-        "message": "1♥: 11-15 pkt, 5+kart w ♥"
+        "id": "f1599e02-a912-4267-bc87-5a78b1fa6309",
+        "bid": "1♥",
+        "message": "11-15 pkt, 5+kart w ♥"
       },
       {
-        "id": "4",
-        "message": "1♠: 11-15 pkt, 5+kart w ♠"
+        "id": "0afbff3f-dca3-4893-8ce3-c4525d1c7df2",
+        "bid": "1♠",
+        "message": "11-15 pkt, 5+kart w ♠"
       },
       {
-        "id": "5",
-        "message": "1☭: 13-15 pkt zbalansowany, bez 5 kart w ♥/♠"
+        "id": "92009fb0-0e7f-4209-9e7a-afc6ea39bdb4",
+        "bid": "1☭",
+        "message": "13-15 pkt zbalansowany, bez 5 kart w ♥/♠"
       },
       {
-        "id": "6",
-        "message": "2♣: 11-15 pkt, 6+♣ LUB 5+♣ z 4 kartami w ♥/♠"
+        "id": "716f604e-3da3-4cb2-8058-f48d0399941a",
+        "bid": "2♣",
+        "message": "11-15 pkt, 6+♣ LUB 5+♣ z 4 kartami w ♥/♠"
       },
       {
-        "id": "7",
-        "message": "2♦: 11-15 pkt, rozkład 4414 lub 4405, 0/1 w ♦, bez 5 w ♥/♠"
+        "id": "535c124c-ddaf-46ba-935f-f13b69822af0",
+        "bid": "2♦",
+        "message": "11-15 pkt, rozkład 4414 lub 4405, 0/1 w ♦, bez 5 w ♥/♠"
       },
       {
-        "id": "8",
-        "message": "2♥: 8-10 pkt, dobre 6♥"
+        "id": "a5e0098a-869d-48ae-8b5e-fdc7f7bea83a",
+        "bid": "2♥",
+        "message": "8-10 pkt, dobre 6♥"
       },
       {
-        "id": "9",
-        "message": "2♠: 8-10 pkt, dobre 6♠"
+        "id": "7bc87bba-5611-43c3-bd2e-976f7a49ba43",
+        "bid": "2♠",
+        "message": "8-10 pkt, dobre 6♠"
       },
       {
-        "id": "10",
-        "message": "2☭: 6-12 pkt, 5-5 w ♦/♣, słaba odzywka"
+        "id": "36123c7b-5414-409d-a613-df7b4861ab69",
+        "bid": "2☭",
+        "message": "6-12 pkt, 5-5 w ♦/♣, słaba odzywka"
       },
       {
-        "id": "11",
-        "message": "3♣: 8-10 pkt, średnio-dobre 7♣, /has side entry/, zaproszenie do 3☭"
+        "id": "deaf4261-9951-477b-a325-d82d7342e324",
+        "bid": "3♣",
+        "message": "8-10 pkt, średnio-dobre 7♣, /has side entry/, zaproszenie do 3☭"
       },
       {
-        "id": "12",
-        "message": "3♦: 8-10 pkt, średnio-dobre 7♦, /has side entry/, zaproszenie do 3☭"
+        "id": "36f16584-f822-4fa2-8ed7-33ea78f4480d",
+        "bid": "3♦",
+        "message": "8-10 pkt, średnio-dobre 7♦, /has side entry/, zaproszenie do 3☭"
       },
       {
-        "id": "13",
-        "message": "3♥: 8-10 pkt, dobre 6♥"
+        "id": "d94d1fcb-d127-470e-8146-0d3f81864615",
+        "bid": "3♥",
+        "message": "8-10 pkt, dobre 6♥"
       },
       {
-        "id": "14",
-        "message": "3♠: 8-10 pkt, dobre 6♠"
+        "id": "58cf963c-8350-4af5-81b5-3cf86b92129d",
+        "bid": "3♠",
+        "message": "8-10 pkt, dobre 6♠"
       },
       {
-        "id": "15",
-        "message": "3☭: około 10 pkt, 7 kart w ♣/♦ z AKQ"
+        "id": "de68ad23-dc57-4ae3-b00b-7bee07ba3aa1",
+        "bid": "3☭",
+        "message": "około 10 pkt, 7 kart w ♣/♦ z AKQ"
       },
       {
-        "id": "16",
-        "message": "4♣: "
+        "id": "a01aca63-6cfc-46d7-ba0f-d1c01ee0e9db",
+        "bid": "4♣",
+        "message": ""
       },
       {
-        "id": "17",
-        "message": "4♦: "
+        "id": "e3e359f3-0b82-4ffd-b288-79b89fcf503a",
+        "bid": "4♦",
+        "message": ""
       },
       {
-        "id": "18",
-        "message": "4♥: 8-10 pkt, dowolne 8 kart w ♥, block"
+        "id": "40aba219-8e04-4ecb-a9f6-aa2716fa54fc",
+        "bid": "4♥",
+        "message": "8-10 pkt, dowolne 8 kart w ♥, block"
       },
       {
-        "id": "19",
-        "message": "4♠: 8-10 pkt, dowolne 8 kart w ♠, block"
+        "id": "33cd11f7-dc16-4719-a9f6-ee37587dc44b",
+        "bid": "4♠",
+        "message": "8-10 pkt, dowolne 8 kart w ♠, block"
       }
     ]
   },
   {
-    "id": "1",
+    "id": "badec682-eafc-4287-80bd-df92a5ba4263",
     "bid": "1♣",
-    "next_steps": [
-      {
-        "id": "1-1",
-        "message": "1♦: "
-      },
-      {
-        "id": "1-2",
-        "message": "1♥: "
-      },
-      {
-        "id": "1-3",
-        "message": "1♠: "
-      },
-      {
-        "id": "1-4",
-        "message": "1☭: "
-      },
-      {
-        "id": "1-5",
-        "message": "2♣: "
-      },
-      {
-        "id": "1-6",
-        "message": "2♦: "
-      },
-      {
-        "id": "1-7",
-        "message": "2♥: "
-      },
-      {
-        "id": "1-8",
-        "message": "2♠: "
-      },
-      {
-        "id": "1-9",
-        "message": "2☭: "
-      },
-      {
-        "id": "1-10",
-        "message": "3♣: "
-      },
-      {
-        "id": "1-11",
-        "message": "3♦: "
-      },
-      {
-        "id": "1-12",
-        "message": "3♥: "
-      },
-      {
-        "id": "1-13",
-        "message": "3♠: "
-      },
-      {
-        "id": "1-14",
-        "message": "3☭: "
-      },
-      {
-        "id": "1-15",
-        "message": "4♥: "
-      },
-      {
-        "id": "1-16",
-        "message": "4♠: "
-      }
-    ]
+    "next_steps": []
   },
   {
-    "id": "2",
+    "id": "ccaea5c7-1174-467e-be60-28fcb98049aa",
     "bid": "1♦",
-    "next_steps": [
-      {
-        "id": "2-1",
-        "message": "1♥: "
-      },
-      {
-        "id": "2-2",
-        "message": "1♠: "
-      },
-      {
-        "id": "2-3",
-        "message": "1☭: "
-      },
-      {
-        "id": "2-4",
-        "message": "2♣: "
-      },
-      {
-        "id": "2-5",
-        "message": "2♦: "
-      },
-      {
-        "id": "2-6",
-        "message": "2♥: "
-      },
-      {
-        "id": "2-7",
-        "message": "2♠: "
-      },
-      {
-        "id": "2-8",
-        "message": "2☭: "
-      },
-      {
-        "id": "2-9",
-        "message": "3♦: "
-      },
-      {
-        "id": "2-10",
-        "message": "3♠: "
-      },
-      {
-        "id": "2-11",
-        "message": "3♥: "
-      },
-      {
-        "id": "2-12",
-        "message": "3☭: "
-      }
-    ]
+    "next_steps": []
   },
   {
-    "id": "3",
+    "id": "f1599e02-a912-4267-bc87-5a78b1fa6309",
     "bid": "1♥",
-    "next_steps": [
-      {
-        "id": "3-1",
-        "message": "1♠: "
-      },
-      {
-        "id": "3-2",
-        "message": "1☭: "
-      },
-      {
-        "id": "3-3",
-        "message": "2♣: "
-      },
-      {
-        "id": "3-4",
-        "message": "2♦: "
-      },
-      {
-        "id": "3-5",
-        "message": "2♥: "
-      },
-      {
-        "id": "3-6",
-        "message": "2♠: "
-      },
-      {
-        "id": "3-7",
-        "message": "2☭: "
-      },
-      {
-        "id": "3-8",
-        "message": "3♦: "
-      },
-      {
-        "id": "3-9",
-        "message": "3♠: "
-      },
-      {
-        "id": "3-10",
-        "message": "3♥: "
-      },
-      {
-        "id": "3-11",
-        "message": "3☭: "
-      }
-    ]
+    "next_steps": []
   },
   {
-    "id": "4",
+    "id": "0afbff3f-dca3-4893-8ce3-c4525d1c7df2",
     "bid": "1♠",
-    "next_steps": [
-      {
-        "id": "4-1",
-        "message": "1☭: "
-      },
-      {
-        "id": "4-2",
-        "message": "2♣: "
-      },
-      {
-        "id": "4-3",
-        "message": "2♦: "
-      },
-      {
-        "id": "4-4",
-        "message": "2♥: "
-      },
-      {
-        "id": "4-5",
-        "message": "2♠: "
-      },
-      {
-        "id": "4-6",
-        "message": "2☭: "
-      },
-      {
-        "id": "4-7",
-        "message": "3♦: "
-      },
-      {
-        "id": "4-8",
-        "message": "3♠: "
-      },
-      {
-        "id": "4-9",
-        "message": "3♥: "
-      },
-      {
-        "id": "4-10",
-        "message": "3☭: "
-      }
-    ]
+    "next_steps": []
   },
   {
-    "id": "5",
+    "id": "92009fb0-0e7f-4209-9e7a-afc6ea39bdb4",
     "bid": "1☭",
-    "next_steps": [
-      {
-        "id": "5-1",
-        "message": "2♣: "
-      },
-      {
-        "id": "5-2",
-        "message": "2♦: "
-      },
-      {
-        "id": "5-3",
-        "message": "2♥: "
-      },
-      {
-        "id": "5-4",
-        "message": "2♠: "
-      },
-      {
-        "id": "5-5",
-        "message": "2☭: "
-      },
-      {
-        "id": "5-6",
-        "message": "3♦: "
-      },
-      {
-        "id": "5-7",
-        "message": "3♠: "
-      },
-      {
-        "id": "5-8",
-        "message": "3♥: "
-      },
-      {
-        "id": "5-9",
-        "message": "3☭: "
-      }
-    ]
+    "next_steps": []
+  },
+  {
+    "id": "716f604e-3da3-4cb2-8058-f48d0399941a",
+    "bid": "2♣",
+    "next_steps": []
+  },
+  {
+    "id": "535c124c-ddaf-46ba-935f-f13b69822af0",
+    "bid": "2♦",
+    "next_steps": []
+  },
+  {
+    "id": "a5e0098a-869d-48ae-8b5e-fdc7f7bea83a",
+    "bid": "2♥",
+    "next_steps": []
+  },
+  {
+    "id": "7bc87bba-5611-43c3-bd2e-976f7a49ba43",
+    "bid": "2♠",
+    "next_steps": []
+  },
+  {
+    "id": "36123c7b-5414-409d-a613-df7b4861ab69",
+    "bid": "2☭",
+    "next_steps": []
+  },
+  {
+    "id": "deaf4261-9951-477b-a325-d82d7342e324",
+    "bid": "3♣",
+    "next_steps": []
+  },
+  {
+    "id": "36f16584-f822-4fa2-8ed7-33ea78f4480d",
+    "bid": "3♦",
+    "next_steps": []
+  },
+  {
+    "id": "d94d1fcb-d127-470e-8146-0d3f81864615",
+    "bid": "3♥",
+    "next_steps": []
+  },
+  {
+    "id": "58cf963c-8350-4af5-81b5-3cf86b92129d",
+    "bid": "3♠",
+    "next_steps": []
+  },
+  {
+    "id": "de68ad23-dc57-4ae3-b00b-7bee07ba3aa1",
+    "bid": "3☭",
+    "next_steps": []
+  },
+  {
+    "id": "a01aca63-6cfc-46d7-ba0f-d1c01ee0e9db",
+    "bid": "4♣",
+    "next_steps": []
+  },
+  {
+    "id": "e3e359f3-0b82-4ffd-b288-79b89fcf503a",
+    "bid": "4♦",
+    "next_steps": []
+  },
+  {
+    "id": "40aba219-8e04-4ecb-a9f6-aa2716fa54fc",
+    "bid": "4♥",
+    "next_steps": []
+  },
+  {
+    "id": "33cd11f7-dc16-4719-a9f6-ee37587dc44b",
+    "bid": "4♠",
+    "next_steps": []
   }
 ]
